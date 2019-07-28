@@ -1,7 +1,7 @@
 {
   "name": "wocss-tools-custom-border",
   "version": "2.0.0",
-  "description": "Mixins that allow create borders with customizable width and height.",
+  "description": "[DEPRECATED] Mixins that allow create borders with customizable width and height.",
   "main": "_tools.custom-border.scss",
   "repository": {
     "type": "git",
